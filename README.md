@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Milo 👋
 
-<!--
-**confusedpotatoe/confusedpotatoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student passionate about software development  
+💻 Currently working with C#, .NET, SQL and Web APIs  
+🚀 Interested in backend development and system design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- C#
+- .NET / ASP.NET
+- SQL Server
+- LINQ
+- Git & GitHub
+
+---
+
+## 📂 Projects
+🔹 **Music Library Database**
+- Built with SQL Server
+- Designed ER-diagram and relationships (1-N, PK/FK)
+
+🔹 **Brick Breaker Game**
+- C# Console Application
+- Used enums, interfaces, and clean architecture principles
+
+---
+
+## 📫 Contact
+- LinkedIn: (add link)
+- Email: (professional email)
+
