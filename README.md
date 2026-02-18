@@ -12,6 +12,7 @@
 - SQL Server
 - LINQ
 - Git & GitHub
+- html & css
 
 ---
 
@@ -28,5 +29,5 @@
 
 ## 📫 Contact
 - LinkedIn: (add link)
-- Email: (professional email)
+- Email: milo.arvaa@gmail.com
 
